@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unstable-nested-components */
 import React from 'react';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { NAVIGATION } from '@/constants';
@@ -10,15 +9,7 @@ export function AppNavigator() {
   return (
     <Stack.Navigator>
       <Stack.Group>
-        <Stack.Screen
-          name={NAVIGATION.home}
-          component={Home}
-          options={{
-            headerTitleStyle: {
-              fontWeight: '900',
-            },
-          }}
-        />
+        <Stack.Screen name={NAVIGATION.home} component={Home} options={{ headerShown: false }} />
       </Stack.Group>
     </Stack.Navigator>
   );
