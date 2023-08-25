@@ -1,7 +1,5 @@
-![image](https://github.com/Shape-It/rn-template/assets/89869262/8fc1d46d-d6d6-4552-ad93-dbbb39bf5def)
+![image](https://github.com/Shape-It/shunpukan/assets/89869262/e8012af2-ceca-4cf8-ac3f-33b479646604)
 
-
-![image](https://github.com/Shape-It/shunpukan/assets/89869262/18e576ab-939a-49ba-afe8-c7993e35d283)
 
 # Getting Started
 
