@@ -1,4 +1,4 @@
-package com.rntemplate;
+package com.shunpukan;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -15,7 +15,7 @@ public class MainActivity extends ReactActivity {
   @Override
   protected String getMainComponentName() {
     RNBootSplash.init(this, R.style.BootTheme);
-    return "rntemplate";
+    return "shunpukan";
   }
 
   /**

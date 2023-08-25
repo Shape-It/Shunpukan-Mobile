@@ -1,4 +1,4 @@
-package com.rntemplate;
+package com.shunpukan;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
