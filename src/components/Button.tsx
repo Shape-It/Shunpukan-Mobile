@@ -6,7 +6,7 @@ interface Button {
   onPress: any;
   style: any;
   textStyle: any;
-  testID: string;
+  testID?: string;
 }
 
 export const Button: React.FC<Button> = ({ title, onPress, style, textStyle, testID }) => {
