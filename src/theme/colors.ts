@@ -28,4 +28,6 @@ export const colors = {
   zeta400: '#ED8936',
   white: '#FFFFFF',
   black: '#1B1B1B',
+  green: 'green',
+  yellow: 'yellow',
 };
